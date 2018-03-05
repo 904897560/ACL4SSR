@@ -24,6 +24,7 @@
 # 禁止访问列表
 
 # 广告关键词
+^api.tvb.com$
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
 (^|\.)\w*adsage\w*\..*$
